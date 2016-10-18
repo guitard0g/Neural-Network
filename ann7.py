@@ -1,4 +1,4 @@
-#ASSIGNMENT SEVEN
+#part 7
 
 
 from random import choice
@@ -31,10 +31,6 @@ def verifyNetwork(epochs, w,v):
 		print('\n=== Statistics ===')
 		print()
 
-# butt
-# poop
-# i hate u
-# nice dick
 
 
 def initializeWeights():
